@@ -3,22 +3,25 @@
   <h1>Suppletoken™ (€SUP)</h1>
 </div>
 
+This repository serves as the official technical documentation and deployment registry for **Suppletoken™ (€SUP)**, a pure corporate utility token built on the Solana blockchain.
 
-This repository serves as the official technical documentation and deployment registry for **Suppletoken™ (€SUP)**, an SPL utility token built on the Solana blockchain.
-
-Suppletoken™ is structurally integrated and managed via the CONSOB-regulated fintech platform **Fleap**, ensuring compliance, regulatory oversight, and secure asset governance for professional and shareholder services.
+Suppletoken™ is structurally integrated and managed via the CONSOB-accredited fintech platform **Fleap**, ensuring compliance, regulatory oversight, and secure asset governance for professional and shareholder services.
 
 ---
 
-## 📊 Technical Specifications
+## 📊 Technical Specifications / Specifiche Tecniche
 
-| Parameter | Value / Identity | Description |
+| Parameter / Parametro | Value / Valore | Description / Descrizione |
 | :--- | :--- | :--- |
 | **Token Name** | Suppletoken™ | Full official commercial name. |
-| **Ticker** | €SUP | Official market symbol identifier. |
+| **Ticker / Symbol** | €SUP | Official market symbol identifier. |
 | **Blockchain** | Solana | Native underlying high-performance network. |
-| **Token Standard** | SPL Token Standard | Solana Token Program. |
-| **Development Status** | Embryonic / Experimental R&D Phase | Under active sandboxed testing. |
+| **Token Standard** | SPL Token Standard | Solana Token Program (SPL Standard). |
+| **Mint Address** | INCOLLA_QUI_IL_NUOVO_INDIRIZZO_MINT_DI_SMITHII | Indirizzo univoco dello smart contract ufficiale. |
+| **Total Supply** | 100,000,000 €SUP | Fornitura totale fissa e non diluibile (Mint Revoked). |
+| **Decimals** | 6 | Frazionamento nativo ottimizzato DeFi (USDC standard). |
+| **Freeze Authority** | Revoked (Disattivata) | Garanzia di impossibilità di blocco dei fondi utenti. |
+| **Update Authority** | Active (Attiva) | Mantenuta per futuri aggiornamenti istituzionali. |
 
 ---
 
@@ -27,8 +30,7 @@ Suppletoken™ is structurally integrated and managed via the CONSOB-regulated f
 > ⚠️ **Critical Network Rule:** Do not confuse the Mint Address with the Treasury Wallet. Sending funds to the Mint Address will result in permanent loss of capital.
 
 ### 🔷 Mint Address (Contract Address - CA)
-This is the immutable cryptographic identifier of the Suppletoken smart contract deployment on the Solana network. It is used to track the asset, verify metadata, or locate the token on explorers like Solscan.
-* **`94FSVdQKQbYxmq1BgtFkBRASSF8iCRomZt3gQcXF6z5p`**
+This is the cryptographic identifier of the official Suppletoken smart contract deployment on the Solana network. It is used to track the asset, verify metadata, and locate the token on explorers like Solscan or Dexscreener.
 
 ### 💼 Official Treasury Wallet (Corporate Vault)
 This is the active financial gateway managed via Phantom Wallet. This address acts as the official corporate vault dedicated to collecting incoming USD/SOL/USDC payments, distributing tokens to buyers, and managing active treasury operations.
@@ -40,9 +42,9 @@ This is the active financial gateway managed via Phantom Wallet. This address ac
 
 Suppletoken™ is the native utility token designed for the Supplet® corporate ecosystem, engineered to empower innovative research and development (R&D) across multiple technological and corporate sectors:
 
-* **SuppletAI™ Integration:** Built for auditing and testing automated patent application drafting and advanced, machine-learning-driven corporate legal workflows.
+* **SuppletAI™ Integration:** Built for auditing and testing automated patent application drafting and advanced, machine-learning-driven corporate legal workflows within our experimental ecosystem.
 * **Corporate Asset Access:** Engineered to grant holders managed fractional access to current and future physical and intellectual corporate assets owned by the Company.
-* **Professional & Shareholder Services:** Integrated with Fleap, a specialized Fintech platform operating under CONSOB (Italian Companies and Exchange Commission) supervision, to deliver exclusive professional services and corporate utilities to qualified members.
+* **Professional & Shareholder Services:** Integrated with Fleap, a specialized Fintech platform operating under CONSOB supervision, to deliver exclusive professional services, corporate utilities, or stock exchange shares to qualified members.
 * **WhatsApp Wallet Integration:** Undergoing testing for native, voice-controlled cryptocurrency wallet management via automated WhatsApp chat commands.
 * **Success-Fee Based Tokenization:** Utilizing innovative economic models to anchor token utilities to real-world corporate success fees and performance milestones.
 
@@ -50,9 +52,9 @@ Suppletoken™ is the native utility token designed for the Supplet® corporate 
 
 ## 🛡️ Corporate Guarantees & Safe Harbor
 
-* **Asset-Backed One-Click Refunds:** Tokens purchased directly from official Supplet® corporate sources are permanently eligible for a "one-click" fiat currency (€) refund, programmatically guaranteed and secured by the corporate equity and asset valuation of the underlying enterprise.
-* **Official Documentation:** Full financial audits, the official Whitepaper, and the comprehensive independent Asset Appraisal Report ("Perizia Tecnica Patrimoniale") are publicly published and accessible on our official enterprise domain at: [supplet.eu/suppletoken](https://supplet.eu)
+* **Asset-Backed One-Click Refunds:** Officially purchased Suppletoken™ (€SUP) features an integrated, fully audited 1-click fiat currency (€) refund or redemption mechanism directly linked to corporate operations, programmatically guaranteed and secured by the corporate equity and asset valuation of the underlying enterprise.
+* **Official Documentation:** Full financial audits, the official Whitepaper, and the comprehensive independent Asset Appraisal Report ("Perizia Tecnica Patrimoniale") are publicly published and accessible on our official enterprise domain at: [https://www.supplet.eu/suppletoken](https://www.supplet.eu/suppletoken)
 
-***
+---
+*Emesso in conformità alle linee guida del mercato digitale europeo da Supplet® SRLS.*
 
-***Disclaimer:** This repository outlines an embryonic, experimental utility framework. Features and smart contract integrations are currently under research, development, and active sandboxed testing.*
