@@ -56,5 +56,5 @@ Suppletoken™ is the native utility token designed for the Supplet® corporate 
 * **Official Documentation:** Full financial audits, the official Whitepaper, and the comprehensive independent Asset Appraisal Report ("Perizia Tecnica Patrimoniale") are publicly published and accessible on our official enterprise domain at: [https://www.supplet.eu/suppletoken](https://www.supplet.eu/suppletoken)
 
 ---
-*Emesso in conformità alle linee guida del mercato digitale europeo da Supplet® SRLS.*
+*Emesso in conformità alle linee guida del mercato digitale europeo da Supplet®*
 
